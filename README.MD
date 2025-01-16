@@ -10,7 +10,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Projeto do BootCamp CAIXA - IA Generativa com Microsoft Copilot.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/PolliCarvalho/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20Mentes%20Digitais%20Evolu%C3%A7%C3%A3o%20das%20IAs.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
