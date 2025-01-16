@@ -34,7 +34,7 @@ OpenArt.AI：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | Create images for an ebook about Intelligence Artificial.
-
+     |
 | conteúdo | Create images for the internal pages of an ebook that discusses the trajectory of Generative AIs and their impact on our lives.
 
 ## ✨ Features
